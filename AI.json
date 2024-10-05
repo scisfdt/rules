@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "perplexity.ai",
+        "chatgpt.com",
+        "auth0.com",
+        "client-api.arkoselabs.com",
+        "events.statsigapi.net",
+        "featuregates.org",
+        "identrust.com",
+        "intercom.io",
+        "intercomcdn.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "openai.com",
+        "openaiapi-site.azureedge.net",
+        "sentry.io",
+        "stripe.com",
+        "gemini.google.com",
+        "makersuite.google.comv",
+        "anthropic.com",
+        "claude.ai.com",
+        "notebooklm.google"
+      ],
+      "domain_keyword": [
+	"openai",
+	"anthropic",
+	"Claude",
+	"notebooklm"
+    }
+  ]
+}
