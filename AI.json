@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
-        "perplexity.ai",
+       "perplexity.ai",
         "chatgpt.com",
         "auth0.com",
         "client-api.arkoselabs.com",
@@ -23,12 +23,14 @@
         "anthropic.com",
         "claude.ai.com",
         "notebooklm.google"
-      ],
+      ]
+    },
+    {
       "domain_keyword": [
-	"openai",
+        "openai",
 	"anthropic",
 	"Claude",
 	"notebooklm"
-      ],
-	}
+      ]
+    }
 }
